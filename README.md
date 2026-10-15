@@ -9,32 +9,22 @@ Professionally: **Applied AI at AMD.**
 
 <sub>↳ usually followed by “okay, HOWW did that work?”</sub>
 
-### ~~the master plan~~ tabs i forgot to close
+### ~~the master plan~~ Tabs I forget to close
 
-- **GenAI** · ~~read one more thread~~ try the thing. see what breaks.
-- **vibe coding** · ~~just ship it~~ ship it, then understand it.
-- **learning** · ~~almost caught up~~ found another rabbit hole.
-- **Aspiring Entrepreneur** · ~~the next big thing~~ one useful thing first.
+- **GenAI** · Very Optimistic on AI. Love creating projects around it and reading another thread by Andrej Karpathy
+- **Vibe Coding** ·  Ship it, then understand it. It's kinda fun.
+- **Learning** · There's always one more interesting topic to learn .
+- **Aspiring Entrepreneur** · Finance and AI. Let's talk?
 
-<sub>note to self: stop renaming the project.</sub>
+<sub> Note to self: stop renaming the project to make it sound cooler.</sub>
 
-### ~~important links~~ loose ends
+### Pride and Regret rolled into one
 
-[blog](https://medium.com/@AxRy) / ~~thought leadership~~ Gotta write more, it's fun.  
+[Blog](https://medium.com/@AxRy) / ~~thought leadership~~ Gotta write more, it's fun.  
 [Behance](https://www.behance.net/prajwalAxRy) / [Dribbble](https://dribbble.com/prajwalAxRy) / I once wanted to be a UX designer because it sounded cool.  
-[say hi](mailto:singhprajwal.work@gmail.com) / I like Finance, AI and good conversations.
+[Say Hi](mailto:singhprajwal.work@gmail.com) / I like Finance, AI and good conversations.
 
-### lore (To decide: To keep or not to keep)
-
-on repeat: **Kodak** by **King, TBSM**  
-~~watched once~~ will rewatch: **Matrix**
-
-<details>
-<summary>scrap i couldn't delete</summary>
-
-~~wait until i know enough.~~
-
-make something. learn enough to make it better.
+Make Something. Learn Enough to Make It Better.
 
 </details>
 
