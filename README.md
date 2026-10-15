@@ -27,10 +27,3 @@ Professionally: **Applied AI at AMD.**
 Make Something. Learn Enough to Make It Better.
 
 </details>
-
----
-
-- [x] put something here
-- [ ] finish this bio
-
-<sub><del>last updated</del> still editing. leave this bit for now.</sub>
