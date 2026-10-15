@@ -4,7 +4,7 @@
 
 ~~a polished personal brand~~ a few things i'm still trying to figure out.
 
-Professionally: **Applied AI at AMD.** 
+Professionally: **Applied AI at AMD.**   
 ~~Passion~~ Introvert Traits: Into **GenAI**, **Vibe Coding**, and Learning things -> Building Things -> Re-learning things.
 
 <sub>↳ usually followed by “okay, HOWW did that work?”</sub>
